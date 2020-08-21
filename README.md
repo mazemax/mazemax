@@ -10,6 +10,7 @@ Hi, my name is _Saad_. I'm programming since 2010 and I'm in love with web devel
 - :link: [LinkedIn Profile](https://www.linkedin.com/in/msaadsiddiqui)
 
 # Current job description
+In addition to development work, I perform following tasks:
 - Understand and design the solution architecture in detail.
 - Focus on continuous improvement and prioritise tech debt.
 - Implement and consider AWS hosted services and on demand infrastructure.
