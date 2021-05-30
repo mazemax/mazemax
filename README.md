@@ -13,9 +13,9 @@ Hi, my name is _Saad_. I'm programming since 2010 and I'm in love with web devel
 In addition to development work, I perform following tasks:
 - Understand and design the solution architecture in detail.
 - Focus on continuous improvement and prioritise tech debt.
-- Implement and consider AWS hosted services and on demand infrastructure.
+- Implement and consider cloud hosting services and on demand infrastructure.
 - Help to define/rollout testing strategy within team.
-- Identify and define how data flows across Raptor and Web-consumer layers.
+- Identify and define how data flows across GraphQL and React.js layers.
 - Available for escalation on pager-duty.
 - Proficient in incident management.
 - Plan and run IPRs and PIRs.
