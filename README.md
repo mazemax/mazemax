@@ -1,5 +1,5 @@
 # Introduction
-Hi, my name is _Saad_. I'm programming since 2010 and I'm in love with web development ❤️
+Hi, my name is _Saad_. I'm programming since 2010 and I'm in ❤️ with web development.
 
 - 🔭 I’m currently working on one secret project 😜
 - 🌱 I’m always learning 🤓
@@ -14,8 +14,7 @@ In addition to development work, I perform following tasks:
 - Focus on continuous improvement and prioritise tech debt.
 - Implement and consider cloud hosting services and on demand infrastructure.
 - Help to define/rollout testing strategy within team.
-- Identify and define how data flows across GraphQL and React.js layers.
-- Available for escalation on pager-duty.
+- Identify and define how data flows across different client and server layers.
 - Proficient in incident management.
 - Plan and run IPRs and PIRs.
 - Solve complex and ambiguous problems.
@@ -26,6 +25,5 @@ In addition to development work, I perform following tasks:
 - Support less experienced team members on their development journey.
 - Resilient to changes in product priorities.
 - Influence decision makers where there is no single right answer.
-- Act in best interests of the consumer tribe.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazemax)](https://github.com/anuraghazra/github-readme-stats)
