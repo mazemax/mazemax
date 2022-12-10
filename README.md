@@ -4,7 +4,7 @@ Hi, my name is _Saad_. I'm programming since 2010 and I'm in ❤️ with softwar
 - 🔭 I’m currently using headless CMS Storyblok and JAM stack
 - 🌱 I’m learning indoor gardening and engineering best practices 🤓
 - 👯 I’m looking to collaborate for pagespeed improvement and Core Web Vitals
-- 🤔 I would love to help with anything related to JavaScript and PHP
+- ✨ I love tech stack upgrades and architecture diagrams
 - 😄 Pronouns: Boy Scout
 - :link: [LinkedIn Profile](https://www.linkedin.com/in/msaadsiddiqui)
 
