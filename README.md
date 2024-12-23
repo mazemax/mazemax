@@ -2,9 +2,9 @@
 Hi, my name is _Max_. I'm programming since 2010 and I'm in ❤️ with software engineering.
 
 - 🔭 I’m currently using headless CMS Storyblok and JAM stack
-- 🌱 I’m learning indoor gardening and engineering best practices 🤓
-- 💨 I’m looking to collaborate for pagespeed improvement and Core Web Vitals
-- ✨ I love tech stack upgrades and architecture diagrams
+- 🌱 Exploring cutting-edge AI tools like **Hugging Face** and **LangChain** while refining engineering best practices
+- ⚡ Enthusiastic about improving PageSpeed, optimizing Core Web Vitals, and architecting scalable solutions
+- ✨ I love tech stack upgrades and elegant system architectures
 - 👀 Pronouns: Boy Scout
 - :link: [LinkedIn Profile](https://www.linkedin.com/in/maxsaad)
 
