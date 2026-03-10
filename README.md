@@ -45,8 +45,8 @@ I specialize in **Generative AI, LLM Agents, RAG, and Computer Vision** — turn
 
 ## 🏆 Hackathon Track Record
 
-🤖 **Deriv AI Hackathon 2026** - Selected for Round 2
-🏆 **AAIMS25 AI Code Fest** — Healthcare AI - 1st place winner
+🤖 **Deriv AI Hackathon 2026** - Selected for Round 2<br/>
+🏆 **AAIMS25 AI Code Fest** — Healthcare AI - 1st place winner<br/>
 🥇 **Deriv NoCode Hackathon 2024** — Top 10 Finalist    
 🎮 **Google Chrome Built-in AI Challenge 2025**  
 🌍 **Worldwide Hackathon by Lovable 2025**  
