@@ -45,8 +45,9 @@ I specialize in **Generative AI, LLM Agents, RAG, and Computer Vision** — turn
 
 ## 🏆 Hackathon Track Record
 
-🥇 **Deriv NoCode Hackathon 2024** — Top 10 Finalist  
-🤖 **AAIMS25 AI Code Fest** — Healthcare AI  
+🤖 **Deriv AI Hackathon 2026** - Selected for Round 2
+🏆 **AAIMS25 AI Code Fest** — Healthcare AI - 1st place winner
+🥇 **Deriv NoCode Hackathon 2024** — Top 10 Finalist    
 🎮 **Google Chrome Built-in AI Challenge 2025**  
 🌍 **Worldwide Hackathon by Lovable 2025**  
 🧠 **Deriv AI Hackathon 2025**
@@ -56,11 +57,11 @@ I specialize in **Generative AI, LLM Agents, RAG, and Computer Vision** — turn
 ## 💼 Career Highlights
 
 ```
-2021–Present  Senior Developer         Mindvalley Labs
-2019–2021     Senior Developer         iProperty (REA Group Asia)
-2017–2019     Software Analyst         IPG Mediabrands
+2021–Present  Senior Developer          Mindvalley Labs
+2019–2021     Senior Developer          iProperty (REA Group Asia)
+2017–2019     Software Analyst          IPG Mediabrands
 2014–2016     Chief Information Officer Geekunit
-2013–2014     Manager, SW Engineering  Logic-Unit
+2013–2014     Manager, SW Engineering   Logic-Unit
 ```
 
 ---
