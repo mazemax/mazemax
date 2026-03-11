@@ -1,3 +1,8 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/778ec4dd-ebc3-4b82-8136-970917c7d6a3" alt="Max Saad — AI Solutions Architect & Engineering Leader" width="100%" />
+</p>
+
 <p align="center">
   <a href="https://linkedin.com/in/maxsaad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://mazemax.github.io"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
@@ -35,11 +40,10 @@ I specialize in **Generative AI, LLM Agents, RAG, and Computer Vision** — turn
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
-| [**Pixurance**](link) | CV app automating car insurance claims | React Native, YOLO11, Roboflow |
-| [**MediBuddy AI**](link) | AI scheduling assistant for healthcare | LLM Agents |
-| [**Sentiment Sense**](link) | Social media NLP intelligence platform | Python, Hugging Face, BART |
-| [**QuickDraw**](link) | Multimodal game with Gemini Nano | Chrome Built-in AI |
-| [**AI Social Trading**](link) | AI-powered social trading platform | LangGraph, OpenAI |
+| [**DerivIQ**](https://v0-deriv-iq.vercel.app) | Multi agent AI-native trading analyst | OpenAI Agents SDK, MCP, NextJS, Magic UI, Spline 3D |
+| [**MediBuddy AI**](https://ai-healthcare-xi.vercel.app) | AI scheduling assistant for healthcare | LLM, Voicekit, Groq, NextJS |
+| [**Pixurance**](https://universe.roboflow.com/pixurance/automobile-damage-detection-rzhxw) | CV app automating car insurance claims | React Native, YOLO11, Roboflow |
+| [**Sentiment Sense**](https://huggingface.co/spaces/maxsi/sentiment-sense) | Social media NLP intelligence platform | Python, Hugging Face, BART |
 
 ---
 
