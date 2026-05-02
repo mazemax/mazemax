@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-**AI-focused Engineering Leader** with 10+ years building production systems for global tech companies.  
+**AI-focused Engineering Leader** with 13+ years building production systems for global tech companies.  
 I specialize in **Generative AI, LLM Agents, RAG, and Computer Vision** — turning research into products.
 
 - 🏢 Senior Developer @ **Mindvalley Labs**
