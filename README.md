@@ -1,79 +1,72 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/778ec4dd-ebc3-4b82-8136-970917c7d6a3" alt="Max Saad — AI Solutions Architect & Engineering Leader" width="100%" />
+  <a href="https://maxsaad.com">
+    <img src="https://raw.githubusercontent.com/mazemax/assets/main/images/github-banner.png" alt="Max Saad: AI Engineering Lead and Former CIO, building multi-agent platforms on MCP and org memory" width="100%" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/maxsaad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://mazemax.github.io"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="mailto:to.msaads@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=mazemax&style=for-the-badge&color=blue" alt="Profile Views"/>
-</p>
-
----
-
-## 👋 About Me
-
-**AI-focused Engineering Leader** with 13+ years building production systems for global tech companies.  
-I specialize in **Generative AI, LLM Agents, RAG, and Computer Vision** — turning research into products.
-
-- 🏢 Senior Developer @ **Mindvalley Labs**
-- 🏆 Multiple AI Hackathon Finalist (Google, Deriv, AAIMS25)
-- 🎓 Former **CIO** — experienced at both the code and boardroom level
-- 🌏 Kuala Lumpur, Malaysia
-
----
-
-## 🤖 AI & ML Expertise
-
-`LangChain` · `LangGraph` · `OpenAI` · `Hugging Face` · `RAG` · `AI Agents` · `YOLO` · `Roboflow` · `Gemini`
-
-## ⚡ Full-Stack Engineering
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,graphql,elixir,supabase,aws&theme=dark" />
+  <a href="https://maxsaad.com"><img src="https://img.shields.io/badge/maxsaad.com-9333EA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/maxsaad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
 
-## 🚀 Featured AI Projects
+### 🤖 What I'm building
 
-| Project | What It Does | Stack |
-|---------|-------------|-------|
-| [**DerivIQ**](https://v0-deriv-iq.vercel.app) | Multi agent AI-native trading analyst | OpenAI Agents SDK, MCP, NextJS, Magic UI, Spline 3D |
-| [**MediBuddy AI**](https://ai-healthcare-xi.vercel.app) | AI scheduling assistant for healthcare | LLM, Voicekit, Groq, NextJS |
-| [**Pixurance**](https://universe.roboflow.com/pixurance/automobile-damage-detection-rzhxw) | CV app automating car insurance claims | React Native, YOLO11, Roboflow |
-| [**Sentiment Sense**](https://huggingface.co/spaces/maxsi/sentiment-sense) | Social media NLP intelligence platform | Python, Hugging Face, BART |
+- **Engineering lead for a B2B multi-agent platform at Mindvalley**: MCP-based agents, real-time AI chat with SSE streaming on the Vercel AI SDK, RAG-based organisational memory on Mindvalley's TrueMemory engine APIs, and 20+ two-way connectors.
+- **Jev AI model**: introduced and demoed it to the whole Mindvalley tech team.
+- **High-conversion web platform**: web architecture and conversion optimisation for Mindvalley's sales pages, built on a Storyblok page builder.
 
----
+### 🚀 Featured projects
 
-## 🏆 Hackathon Track Record
+| Project | What it is | Stack |
+|---|---|---|
+| [**GuardianBox**](https://github.com/mazemax/guardian-box) | ACE 2026 Mini Hackathon. Local-only fall detection on NVIDIA DGX Spark; video never leaves the house, family gets Telegram alerts | Python, local AI, Telegram |
+| [**Storybook Storyblok Addon**](https://github.com/mazemax/storybook-storyblok-addon) | Published npm package. Copy component blocks from Storybook and paste them straight into the Storyblok visual editor | TypeScript, Storybook, Storyblok |
+| [**Mindvalley Products MCP Server**](https://github.com/mazemax/mindvalley-products-mcp) | Published npm package. MCP server that gives AI assistants structured access to Mindvalley products, masterclasses, programs and certifications | MCP, TypeScript, Node.js |
+| [**MediBuddyAI**](https://github.com/Leykwan132/ai-healthcare) | 🥇 1st Place, AAIMS25 AI Code Fest. I built the AI parsing and scheduling layer | Vercel AI SDK, OpenAI, Groq, Next.js |
 
-🤖 **Deriv AI Hackathon 2026** - Selected for Round 2<br/>
-🏆 **AAIMS25 AI Code Fest** — Healthcare AI - 1st place winner<br/>
-🥇 **Deriv NoCode Hackathon 2024** — Top 10 Finalist    
-🎮 **Google Chrome Built-in AI Challenge 2025**  
-🌍 **Worldwide Hackathon by Lovable 2025**  
-🧠 **Deriv AI Hackathon 2025**
+### 🧰 Stack
 
----
+**AI:** AI agents · MCP · RAG · OpenAI Agents SDK · Vercel AI SDK · CrewAI · LiveKit
 
-## 💼 Career Highlights
+<p>
+  <img src="https://img.shields.io/badge/MCP-111827?style=flat-square" alt="MCP"/>
+  <img src="https://img.shields.io/badge/RAG-111827?style=flat-square" alt="RAG"/>
+  <img src="https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Agents SDK"/>
+  <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel AI SDK"/>
+  <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square" alt="CrewAI"/>
+  <img src="https://img.shields.io/badge/LiveKit-1F1F1F?style=flat-square" alt="LiveKit"/>
+</p>
+
+**Engineering:**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,python,elixir,nestjs,nextjs,react,postgres,supabase,aws,gcp,vercel,docker&perline=13" alt="TypeScript, Node.js, Python, Elixir, NestJS, Next.js, React, PostgreSQL, Supabase, AWS, GCP, Vercel, Docker"/>
+</p>
+<sub>Also React Native.</sub>
+
+### 💼 Career
 
 ```
-2021–Present  Senior Developer          Mindvalley Labs
-2019–2021     Senior Developer          iProperty (REA Group Asia)
-2017–2019     Software Analyst          IPG Mediabrands
-2014–2016     Chief Information Officer Geekunit
-2013–2014     Manager, SW Engineering   Logic-Unit
+Jun 2021 - now   Senior Full Stack Engineer      Mindvalley
+2014 - 2016      Chief Information Officer       Geekunit
+Earlier          REA Group Asia · IPG Mediabrands · Litmus Labs · Logic-Unit
+Education        BS Computer Science, FAST Karachi
 ```
 
+<!-- ===================================================================== -->
+<!-- PLACEHOLDER: STATS CARDS (optional)                                    -->
+<!-- The public github-readme-stats Vercel endpoint is unreliable. Generate -->
+<!-- static SVGs with a scheduled GitHub Action (readme-tools/              -->
+<!-- github-readme-stats-action) into profile/ and embed them like this:    -->
+<!-- <img src="./profile/stats.svg" height="150"/>                          -->
+<!-- <img src="./profile/top-langs.svg" height="150"/>                      -->
+<!-- ===================================================================== -->
+
 ---
 
-## 💬 What Colleagues Say
-
-> *"Saad is an amazing TechLead... very thorough and never compromises
-> on delivering high quality work."*
-> — **Prosper Chiduku**, Mindvalley Labs
-
----
+<p align="center">
+  <b>Open to conversations on AI agents, MCP and org memory.</b><br/>
+  <a href="https://maxsaad.com">maxsaad.com</a> · <a href="https://www.linkedin.com/in/maxsaad/">LinkedIn</a>
+</p>
