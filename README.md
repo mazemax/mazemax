@@ -13,7 +13,7 @@
 
 ### 🤖 What I'm building
 
-- **Engineering lead for a B2B multi-agent platform at Mindvalley**: MCP-based agents, real-time AI chat with SSE streaming on the Vercel AI SDK, RAG-based organisational memory on Mindvalley's TrueMemory engine APIs, and 20+ two-way connectors.
+- **A B2B multi-agent platform at Mindvalley**: MCP-based agents, real-time AI chat with SSE streaming on the Vercel AI SDK, RAG-based organisational memory on Mindvalley's TrueMemory engine APIs, and 20+ two-way connectors.
 - **Jev AI model**: introduced and demoed it to the whole Mindvalley tech team.
 - **High-conversion web platform**: web architecture and conversion optimisation for Mindvalley's sales pages, built on a Storyblok page builder.
 
